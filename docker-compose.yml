@@ -1,7 +1,7 @@
 version: "2"
 services:
   app:
-    build: ../../Desktop/PythonDockerFlaskPycharm-master/app
+    build: ./app
     container_name: "Flask_App1"
     links:
       - db
