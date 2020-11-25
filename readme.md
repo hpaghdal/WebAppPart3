@@ -2,7 +2,7 @@
 #### 20 records: Index, Square footage, beds, baths, zip code, year, list price. 
 
 ### Query Screenshot 
-![Query Output](screenshots/zillow.png)
+![Query Output](screenshots/Zillow.png)
 
 ### Get
 ![Get Output](screenshots/Get.png)
