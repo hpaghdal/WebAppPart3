@@ -1,5 +1,19 @@
-## Web App part 3: Zillow Tallahassee Housing Prices as reported by Zillow. 
-### 20 records: Index, Square footage, beds, baths, zip code, year, list price. 
+### Web App part 3: Zillow Housing Prices. 
+#### 20 records: Index, Square footage, beds, baths, zip code, year, list price. 
 
-# Query Screenshot 
+### Query Screenshot 
 ![Query Output](screenshots/zillow.png)
+
+### Get
+![Get Output](screenshots/Get.png)
+
+### Put
+![Put Output](screenshots/Put.png)
+
+### Post
+![Post Output](screenshots/Post.png)
+
+### Delete
+![delete Output](screenshots/Delete.png)
+
+
